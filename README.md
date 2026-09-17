@@ -1,4 +1,4 @@
-**🚀 DevStack**
+***🚀 DevStack***
 
 About The Project
 
@@ -17,7 +17,7 @@ Vite
 
 
 
-**✨ Features**
+***✨ Features***
 
 Browse different technologies with details like category, difficulty, rating, and description.
 Add technologies to a personal stack and remove them when needed.

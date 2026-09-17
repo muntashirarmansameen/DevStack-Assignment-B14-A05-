@@ -1,9 +1,9 @@
-### 🚀 DevStack
+## 🚀 DevStack
 
 **About The Project** <br/>
 DevStack is a technology stack builder web app where users can explore different technologies and create their own development stack. It provides a simple and clean interface to compare tools and choose the right technologies for a project.
 
-### 🛠️ Technologies Used <br/>
+## 🛠️ Technologies Used <br/>
 - React.js
 - TypeScript
 - Tailwind CSS
@@ -11,12 +11,12 @@ DevStack is a technology stack builder web app where users can explore different
 - React Toastify
 - Vite
 
-### ✨ Features
+## ✨ Features
 Browse different technologies with details like category, difficulty, rating, and description.
 Add technologies to a personal stack and remove them when needed.
 Fully responsive design for mobile, tablet, and desktop.
 
-### React Questions
+## React Questions
 
 - **What is JSX, and why is it used in React?** <br/>
 JSX is a way to write HTML-like code inside JavaScript. It makes creating React components easier and more readable.

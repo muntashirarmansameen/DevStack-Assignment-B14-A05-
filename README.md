@@ -1,22 +1,22 @@
-## 🚀 DevStack
+# 🚀 DevStack
 
 **About The Project** <br/>
 DevStack is a technology stack builder web app where users can explore different technologies and create their own development stack. It provides a simple and clean interface to compare tools and choose the right technologies for a project.
 
-## 🛠️ Technologies Used <br/>
-React.js
-TypeScript
-Tailwind CSS
-React Icons
-React Toastify
-Vite
+# 🛠️ Technologies Used <br/>
+- React.js
+- TypeScript
+- Tailwind CSS
+- React Icons
+- React Toastify
+- Vite
 
-## ✨ Features
+# ✨ Features
 Browse different technologies with details like category, difficulty, rating, and description.
 Add technologies to a personal stack and remove them when needed.
 Fully responsive design for mobile, tablet, and desktop.
 
-## React Questions
+# React Questions
 
 **1\. What is JSX, and why is it used in React?** <br/>
 JSX is a way to write HTML-like code inside JavaScript. It makes creating React components easier and more readable.
@@ -37,9 +37,7 @@ The key helps React identify each item and update the UI efficiently.
 Conditional rendering means showing different UI based on a condition.
 Example: stack.length === 0? "Your Stack is empty": "Show selected technologies"
 
-
-
-**7\. How do you pass data from parent to child, and child to parent?**
+**7\. How do you pass data from parent to child, and child to parent?** <br/>
 A parent passes data to a child using props. A child sends data back by calling a function received from the parent as a prop.
 
 
